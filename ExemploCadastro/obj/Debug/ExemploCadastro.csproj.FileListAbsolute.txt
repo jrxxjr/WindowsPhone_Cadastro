@@ -1,0 +1,16 @@
+c:\users\cliente\documents\visual studio 2010\Projects\ExemploCadastro\ExemploCadastro\obj\Debug\App.g.i.cs
+c:\users\cliente\documents\visual studio 2010\Projects\ExemploCadastro\ExemploCadastro\obj\Debug\MainPage.g.i.cs
+c:\users\cliente\documents\visual studio 2010\Projects\ExemploCadastro\ExemploCadastro\obj\Debug\ExemploCadastro.g.resources
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\Bin\Debug\ApplicationIcon.png
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\Bin\Debug\Background.png
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\Bin\Debug\ExemploCadastro.dll
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\Bin\Debug\ExemploCadastro.pdb
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\obj\Debug\ExemploCadastro.dll
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\obj\Debug\ExemploCadastro.pdb
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\Bin\Debug\AppManifest.xaml
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\Bin\Debug\ExemploCadastro.xap
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\obj\Debug\XapCacheFile.xml
+C:\Users\cliente\Documents\Visual Studio 2010\Projects\ExemploCadastro\ExemploCadastro\obj\Debug\ExemploCadastro.csprojResolveAssemblyReference.cache
